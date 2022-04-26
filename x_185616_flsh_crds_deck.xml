@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2022-04-26 09:05:44">
+<x_185616_flsh_crds_deck action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="ServiceNow - Rome - IT Operations Management - Discovery Fundamentals">c598688497b60110be4abfb3f153afc2</category>
+<name>Application Mapping</name>
+<short_description>Questions on Discovery Application Mapping and Process Classification</short_description>
+<sys_class_name>x_185616_flsh_crds_deck</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:12:33</sys_created_on>
+<sys_id>901e942297b20110be4abfb3f153af27</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:12:33</sys_updated_on>
+</x_185616_flsh_crds_deck>
+<x_185616_flsh_crds_deck action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="ServiceNow - Rome - IT Operations Management - Discovery Fundamentals">c598688497b60110be4abfb3f153afc2</category>
+<name>Asset, File-based and Certificate Discovery</name>
+<short_description>Questions relating to Asset, File-based and Certificate Discovery</short_description>
+<sys_class_name>x_185616_flsh_crds_deck</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-19 14:35:48</sys_created_on>
+<sys_id>3a08934897870110be4abfb3f153afac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-19 14:35:48</sys_updated_on>
+</x_185616_flsh_crds_deck>
+<x_185616_flsh_crds_deck action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="ServiceNow - Rome - Customer Service Management Fundamentals">d7378bf397220110be4abfb3f153af73</category>
+<name>Case and Account Escalation</name>
+<short_description>Questions on CSM Case and Account Escalation</short_description>
+<sys_class_name>x_185616_flsh_crds_deck</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 15:25:45</sys_created_on>
+<sys_id>59c1a00097b60110be4abfb3f153af2c</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 15:26:21</sys_updated_on>
+</x_185616_flsh_crds_deck>
+<x_185616_flsh_crds_deck action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="ServiceNow - Rome - Customer Service Management Fundamentals">d7378bf397220110be4abfb3f153af73</category>
+<name>Case Routing and Assignment</name>
+<short_description>Questions relating to CSM Case routing and Assignment</short_description>
+<sys_class_name>x_185616_flsh_crds_deck</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 14:13:32</sys_created_on>
+<sys_id>6f3ba7f397a20110be4abfb3f153af09</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 14:13:32</sys_updated_on>
+</x_185616_flsh_crds_deck>
+<x_185616_flsh_crds_deck action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="ServiceNow - Rome - Customer Service Management Fundamentals">d7378bf397220110be4abfb3f153af73</category>
+<name>CSM Workflow Integrations</name>
+<short_description>One of the most powerful features of ServiceNow’s CSM application is how easily it integrates with NOW applications. This extends the capabilities of Customer Service Management and increases the effectiveness and efficiency of case resolut</short_description>
+<sys_class_name>x_185616_flsh_crds_deck</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 12:26:47</sys_created_on>
+<sys_id>5d2c2de497b20110be4abfb3f153afe3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 12:26:47</sys_updated_on>
+</x_185616_flsh_crds_deck>
+<x_185616_flsh_crds_deck action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="ServiceNow - Rome - IT Operations Management - Discovery Fundamentals">c598688497b60110be4abfb3f153afc2</category>
+<name>Discovery Credentials and Behaviors</name>
+<short_description>Questions on configuring and using credentials and behaviors</short_description>
+<sys_class_name>x_185616_flsh_crds_deck</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 15:32:24</sys_created_on>
+<sys_id>6c07ba6c97760110be4abfb3f153affe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 15:32:24</sys_updated_on>
+</x_185616_flsh_crds_deck>
+<x_185616_flsh_crds_deck action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="ServiceNow - Rome - Customer Service Management Fundamentals">d7378bf397220110be4abfb3f153af73</category>
+<name>Major Issue Management</name>
+<short_description>Major issue management enables you to efficiently manage the communication and resolution process for issues that impact multiple customers.</short_description>
+<sys_class_name>x_185616_flsh_crds_deck</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 08:30:56</sys_created_on>
+<sys_id>dfa5196097720110be4abfb3f153affd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 08:30:56</sys_updated_on>
+</x_185616_flsh_crds_deck>
+<x_185616_flsh_crds_deck action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="ServiceNow - Rome - IT Operations Management - Discovery Fundamentals">c598688497b60110be4abfb3f153afc2</category>
+<name>MID Servers for Discovery</name>
+<short_description>The MID Server is core to many successful implementations as it is used with many of the ServiceNow products such as Discovery, Service Mapping, Integration Hub, Cloud Provisioning and Governance, Event Management, and Operational Intellige</short_description>
+<sys_class_name>x_185616_flsh_crds_deck</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 13:56:30</sys_created_on>
+<sys_id>f88c1ee497760110be4abfb3f153af5a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 13:56:30</sys_updated_on>
+</x_185616_flsh_crds_deck>
+<x_185616_flsh_crds_deck action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="ServiceNow - Rome - IT Operations Management - Discovery Fundamentals">c598688497b60110be4abfb3f153afc2</category>
+<name>Phases, Probes and Classifications</name>
+<short_description>Questions on the Phases of Discovery, and how probes and classification works</short_description>
+<sys_class_name>x_185616_flsh_crds_deck</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 14:38:11</sys_created_on>
+<sys_id>79bbc6a197760110be4abfb3f153afba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 14:38:11</sys_updated_on>
+</x_185616_flsh_crds_deck>
+<x_185616_flsh_crds_deck action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="ServiceNow - Rome - IT Operations Management - Discovery Fundamentals">c598688497b60110be4abfb3f153afc2</category>
+<name>Running Discovery Basics</name>
+<short_description>Questions on Discovery Schedules and Discovery Status Records</short_description>
+<sys_class_name>x_185616_flsh_crds_deck</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 15:12:12</sys_created_on>
+<sys_id>335feea097760110be4abfb3f153affc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 15:12:12</sys_updated_on>
+</x_185616_flsh_crds_deck>
+<x_185616_flsh_crds_deck action="INSERT_OR_UPDATE">
+<active>true</active>
+<category display_value="ServiceNow - Rome - Customer Service Management Fundamentals">d7378bf397220110be4abfb3f153af73</category>
+<name>Workspace Experience</name>
+<short_description>Questions on CSM Workspace Experiences. CSM Agent Workspace and CSM Configurable Workspace</short_description>
+<sys_class_name>x_185616_flsh_crds_deck</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>ae7743b397220110be4abfb3f153af8b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_deck>
+</unload>

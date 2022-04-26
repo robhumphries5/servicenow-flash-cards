@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2022-04-26 09:05:27">
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) manually managed</answer>
+<deck display_value="CSM Workflow Integrations">5d2c2de497b20110be4abfb3f153afe3</deck>
+<name>1</name>
+<order>100</order>
+<question>OOB the integration between CSM and ITSM data and processes is ____________
+a) automatic
+b) manually managed</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 13:00:47</sys_created_on>
+<sys_id>12e81ea097760110be4abfb3f153aff7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 13:00:47</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) internal</answer>
+<deck display_value="Case and Account Escalation">59c1a00097b60110be4abfb3f153af2c</deck>
+<name>1</name>
+<order>100</order>
+<question>Case or Account Escalation is an __________ process
+a) internal 
+b) external</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 15:26:21</sys_created_on>
+<sys_id>d307604497b60110be4abfb3f153af33</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 15:26:21</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) NMAP</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>1</name>
+<order>100</order>
+<question>Which protocol does credential-less Discovery use?
+a) SNMP
+b) HTTP
+c) NMAP
+d) TCP</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>6c581ae597f60110be4abfb3f153af61</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) both</answer>
+<deck display_value="Case Routing and Assignment">6f3ba7f397a20110be4abfb3f153af09</deck>
+<name>1</name>
+<order>100</order>
+<question>CSM can manage case assignment __________?
+a) manually
+b) automatically
+c) both</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 14:57:42</sys_created_on>
+<sys_id>3370ec4c97760110be4abfb3f153af4f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 14:57:42</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) A record of financial information relating to a CI</answer>
+<deck display_value="Asset, File-based and Certificate Discovery">3a08934897870110be4abfb3f153afac</deck>
+<name>1</name>
+<order>100</order>
+<question>What are "Assets"?
+a) Non-discoverable hardware
+b) Discoverable hardware not classified as a CI
+c) A record of financial information relating to a CI
+d) A CI Class extended from cmdb_ci_hardware</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-19 15:29:27</sys_created_on>
+<sys_id>d364a74497c70110be4abfb3f153afa7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-19 15:29:27</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) Scanning, Classification, Identification, Exploration</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>1</name>
+<order>100</order>
+<question>What are the phases of discovery?
+a) Scanning, Classification, Identification, Exploration
+b) Port Scan, Categorization, Identification, Exploration
+c) Shazzam, Classification, Identification, Exploration
+d) Shazzam, Classification, Reconciliation, Probes and Patterns</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>670e542297b20110be4abfb3f153afef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) Management, Instrumentation, and Discovery</answer>
+<deck display_value="MID Servers for Discovery">f88c1ee497760110be4abfb3f153af5a</deck>
+<name>1</name>
+<order>100</order>
+<question>What does MID Server stand for?
+a) Management, Instrumentation, and Discovery
+b) Monitoring, Instrumentation, and Discovery
+c) Maintenance Information Device
+d) Management Information Database</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 14:22:51</sys_created_on>
+<sys_id>28bbaea497b60110be4abfb3f153af53</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 14:22:51</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) Exploration</answer>
+<deck display_value="Application Mapping">901e942297b20110be4abfb3f153af27</deck>
+<name>1</name>
+<order>100</order>
+<question>In which phase of Discovery does Application Dependency mapping take place?
+a) Port Scan
+b) Classification
+c) Identification
+d) Exploration</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-19 14:34:57</sys_created_on>
+<sys_id>49f7534897870110be4abfb3f153af38</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-19 14:34:57</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) Major Issue Management</answer>
+<deck display_value="Major Issue Management">dfa5196097720110be4abfb3f153affd</deck>
+<name>1</name>
+<order>100</order>
+<question>With ____________________, you can identify impacted customers who have not yet reported an issue and proactively create cases for these customers.
+a) Major Incident Management
+b) Problem Management
+c) Major Issue Management
+d) Incident Management</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 08:30:56</sys_created_on>
+<sys_id>e12b11e497720110be4abfb3f153afb5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 08:30:56</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) CSM Configurable Workspace</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>1</name>
+<order>100</order>
+<question>Which Workspace Experience works with UI Builder for configuration?
+a) CSM Agent Workspace
+b) CSM Configurable Workspace</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>c4351bb397620110be4abfb3f153af05</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) Discovery Home &gt; CI Schedules tab OR Discovery &gt; Discovery Schedules &gt; New</answer>
+<deck display_value="Running Discovery Basics">335feea097760110be4abfb3f153affc</deck>
+<name>1</name>
+<order>100</order>
+<question>What are the two methods for creating a Discovery Schedule?
+a) Discovery Home &gt; CI Schedules tab OR Discovery &gt; Discovery Schedules &gt; New
+b) Discovery Home &gt; CI Schedules tab
+c) Discovery &gt; Discovery Schedules &gt; New
+d) Discovery &gt; Discovery Schedules &gt; Quick Discovery</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 14:38:34</sys_created_on>
+<sys_id>c01c06e997b60110be4abfb3f153af26</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 14:38:34</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) Major Case</answer>
+<deck display_value="Major Issue Management">dfa5196097720110be4abfb3f153affd</deck>
+<name>2</name>
+<order>200</order>
+<question>The key table introduced with Major Issue Management is?
+a) Major Incident
+b) Major Issue
+c) Major Problem
+d) Major Case</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 08:30:56</sys_created_on>
+<sys_id>6d2b11e497720110be4abfb3f153afb5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 08:30:56</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) 443</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>2</name>
+<order>200</order>
+<question>What is the common port number for HTTP? 
+a) 443 
+b) 22 
+c) 135 
+d) 161</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>6f0e542297b20110be4abfb3f153afef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>e) All of the above</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>2</name>
+<order>200</order>
+<question>What are the benefits of Workspace Experiences?
+a) Improve agent productivity with new multi-tab user interface
+b) Access to contextual data in a single view
+c) Reduce case handling time
+d )Improve customer experience
+e) All of the above</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>c835dfb397620110be4abfb3f153af36</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) Customer Service Agent</answer>
+<deck display_value="Case and Account Escalation">59c1a00097b60110be4abfb3f153af2c</deck>
+<name>2</name>
+<order>200</order>
+<question>Case escalations are managed by which persona?
+a) Account Escalation Manager
+b) Customer
+c) Consumer
+d) Customer Service Agent</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 15:26:21</sys_created_on>
+<sys_id>5707604497b60110be4abfb3f153af33</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 15:26:21</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) Case</answer>
+<deck display_value="CSM Workflow Integrations">5d2c2de497b20110be4abfb3f153afe3</deck>
+<name>2</name>
+<order>200</order>
+<question>All customer / consumer interactions should be managed through which record type?
+a) In take
+b) Incident
+c) Idea
+d) Case</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 13:00:47</sys_created_on>
+<sys_id>92e81ea097760110be4abfb3f153aff7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 13:00:47</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) an interim solution while credentials are created/provided</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>2</name>
+<order>200</order>
+<question>What is the purpose of credential-less discovery?
+a) to Discover devices Security will not provide credentials for
+b) an interim solution while credentials are created/provided
+c) a more secure version of discovery as credentials are not stored
+d) a discovery solution using an agent on the target device</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>ec581ae597f60110be4abfb3f153af61</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) runs on</answer>
+<deck display_value="Application Mapping">901e942297b20110be4abfb3f153af27</deck>
+<name>2</name>
+<order>200</order>
+<question>Which relationship type is added between an application and it's host?
+a) depends on
+b) used by
+c) runs on
+d) no relationship</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-19 14:34:57</sys_created_on>
+<sys_id>cdf7534897870110be4abfb3f153af38</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-19 14:34:57</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) a tool which uses defined criteria to recommend a best assignee for a case to a case manager</answer>
+<deck display_value="Case Routing and Assignment">6f3ba7f397a20110be4abfb3f153af09</deck>
+<name>2</name>
+<order>200</order>
+<question>What is the CSM Assignment Workbench?
+a) where agents can find their assigned cases
+b) a tool which uses defined criteria to recommend a best assignee for a case to a case manager
+c) a tool for estimating case effort
+d) a tool for recording time spent on an assignment</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 14:57:42</sys_created_on>
+<sys_id>b370ec4c97760110be4abfb3f153af4f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 14:57:42</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) Unidentified IPs</answer>
+<deck display_value="Running Discovery Basics">335feea097760110be4abfb3f153affc</deck>
+<name>2</name>
+<order>200</order>
+<question>CIs that could not be classified show in which related list on the Discovery Schedule?
+a) ECC Queue
+b) Discovery Status
+c) Unidentified IPs
+d) Discovery Log</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 14:38:34</sys_created_on>
+<sys_id>441c06e997b60110be4abfb3f153af26</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 14:38:34</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) It allows communication between the instance and applications/devices within a local Network</answer>
+<deck display_value="MID Servers for Discovery">f88c1ee497760110be4abfb3f153af5a</deck>
+<name>2</name>
+<order>200</order>
+<question>What is the purpose of a MID Server?
+a) It runs Discovery
+b) It interacts with Active Directory
+c) It produces schedules reports and sends them to Users
+d) It allows communication between the instance and applications/devices within a local Network</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 14:22:51</sys_created_on>
+<sys_id>a8bbaea497b60110be4abfb3f153af53</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 14:22:51</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) all of the above</answer>
+<deck display_value="Asset, File-based and Certificate Discovery">3a08934897870110be4abfb3f153afac</deck>
+<name>2</name>
+<order>200</order>
+<question>When are assets typically created?
+a) during procurement
+b) when a new CI is created
+c) when manually created
+d) all of the above</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-19 15:29:27</sys_created_on>
+<sys_id>5764a74497c70110be4abfb3f153afa7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-19 15:29:27</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) Windows and UNIX</answer>
+<deck display_value="MID Servers for Discovery">f88c1ee497760110be4abfb3f153af5a</deck>
+<name>3</name>
+<order>300</order>
+<question>What kind of servers can a MID Server be installed on?
+a) Windows only
+b) UNIX only
+c) Windows and UNIX
+d) Virtual Servers only</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 14:22:51</sys_created_on>
+<sys_id>2cbbaea497b60110be4abfb3f153af53</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 14:22:51</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) 135</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>3</name>
+<order>300</order>
+<question>Which port identifies a device as a Windows Device?
+a) 443 
+b) 22 
+c) 135 
+d) 161</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>ef0e542297b20110be4abfb3f153afef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) Account Escalation Manager</answer>
+<deck display_value="Case and Account Escalation">59c1a00097b60110be4abfb3f153af2c</deck>
+<name>3</name>
+<order>300</order>
+<question>Account escalations are managed by which persona?
+a) Account Escalation Manager
+b) Customer
+c) Consumer
+d) Customer Service Agent</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 15:26:21</sys_created_on>
+<sys_id>d707604497b60110be4abfb3f153af33</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 15:26:21</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) Customer Service Agent</answer>
+<deck display_value="CSM Workflow Integrations">5d2c2de497b20110be4abfb3f153afe3</deck>
+<name>3</name>
+<order>300</order>
+<question>Who should raise an ITSM ticket if Technical IT Support is required for a case?
+a) Customer
+b) Consumer
+c) IT Agent
+d) Customer Service Agent</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 13:00:47</sys_created_on>
+<sys_id>16e81ea097760110be4abfb3f153aff7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 13:00:47</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) automatic</answer>
+<deck display_value="Case Routing and Assignment">6f3ba7f397a20110be4abfb3f153af09</deck>
+<name>3</name>
+<order>300</order>
+<question>Which method of assignment is preferred?
+a) manual
+b) automatic
+c) informed manual (assignment workbench)</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 14:57:42</sys_created_on>
+<sys_id>3770ec4c97760110be4abfb3f153af4f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 14:57:42</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) Windows and Linux</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>3</name>
+<order>300</order>
+<question>Which Operating Systems does credential-less discovery work with?
+a) Windows Only
+b) Linux Only
+c) Windows and Linux
+d) Any Operating System</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>60581ae597f60110be4abfb3f153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) Target Communications</answer>
+<deck display_value="Major Issue Management">dfa5196097720110be4abfb3f153affd</deck>
+<name>3</name>
+<order>300</order>
+<question>In Major Issue Management, affected customers are identified using?
+a) Target Communications
+b) Groups
+c) A List Field
+d) Roles</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 08:30:56</sys_created_on>
+<sys_id>ed2b11e497720110be4abfb3f153afb5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 08:30:56</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) depends on</answer>
+<deck display_value="Application Mapping">901e942297b20110be4abfb3f153af27</deck>
+<name>3</name>
+<order>300</order>
+<question>Which relationship type is added between interdependent applications identified by TCP ports?
+a) depends on
+b) used by
+c) runs on
+d) no relationship</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-19 14:34:57</sys_created_on>
+<sys_id>41f7534897870110be4abfb3f153af39</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-19 14:34:57</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) Port Scan and Classification</answer>
+<deck display_value="Running Discovery Basics">335feea097760110be4abfb3f153affc</deck>
+<name>3</name>
+<order>300</order>
+<question>Which phases of Discovery can be investigated in the ECC Queue related list on the Discovery Status record?
+a) Port Scan and Identification
+b) Identification and Classification
+c) Port Scan and Classification
+d) Classification and Exploration</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 14:38:34</sys_created_on>
+<sys_id>c41c06e997b60110be4abfb3f153af26</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 14:38:34</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>Agent Workspace (com.agent_workspace) and/or CSM Workspace plugin (com.snc.agent_workspace.csm) is not installed and configured</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>3</name>
+<order>300</order>
+<question>Customer Service Management plugin is installed and configured but agents cannot see the CSM Agent Workspace in the navigation. What is a likely cause of the issue?</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>4c35dfb397620110be4abfb3f153af36</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) True</answer>
+<deck display_value="Case and Account Escalation">59c1a00097b60110be4abfb3f153af2c</deck>
+<name>4</name>
+<order>400</order>
+<question>SLAs can be related to case or account escalation records?
+a) True
+b) False</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 15:26:21</sys_created_on>
+<sys_id>5b07604497b60110be4abfb3f153af33</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 15:26:21</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) running processes</answer>
+<deck display_value="Application Mapping">901e942297b20110be4abfb3f153af27</deck>
+<name>4</name>
+<order>400</order>
+<question>Applications are created from _____________
+a) running processes
+b) registry keys
+c) install directories
+d) license information</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-19 14:34:57</sys_created_on>
+<sys_id>c1f7534897870110be4abfb3f153af39</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-19 14:34:57</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) On the MID Server "Related Links"</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>4</name>
+<order>400</order>
+<question>Where do you enable Credential-less Discovery?
+a) On the MID Server "Related Links"
+b) On the Discovery Schedule
+c) In the MID Server config.xml file
+d) With system property sn_disco.credential_less_disco.enabled</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>e0581ae597f60110be4abfb3f153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) so that agents can receive assignments in their Inbox in Agent Workspace</answer>
+<deck display_value="Case Routing and Assignment">6f3ba7f397a20110be4abfb3f153af09</deck>
+<name>4</name>
+<order>400</order>
+<question>Why is Agent Workspace required for Advanced Work Assignment to be used?
+a) it is a licensed product
+b) it isn't required
+c) so that agents can choose the assignments they want
+d) so that agents can receive assignments in their Inbox in Agent Workspace</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 14:57:42</sys_created_on>
+<sys_id>b770ec4c97760110be4abfb3f153af4f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 14:57:42</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) Identification and Exploration</answer>
+<deck display_value="Running Discovery Basics">335feea097760110be4abfb3f153affc</deck>
+<name>4</name>
+<order>400</order>
+<question>Which phases of Discovery can be investigated in the Discovery Log related list on the Discovery Status record? 
+a) Port Scan and Identification 
+b) Identification and Classification 
+c) Port Scan and Classification 
+d) Identification and Exploration</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 14:38:34</sys_created_on>
+<sys_id>481c06e997b60110be4abfb3f153af26</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 14:38:34</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) 161</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>4</name>
+<order>400</order>
+<question>What is the common port number for SMNP? 
+a) 443 
+b) 22 
+c) 135 
+d) 161</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>630e542297b20110be4abfb3f153aff0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) workspace_admin</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>4</name>
+<order>400</order>
+<question>Which role do users require as a minimum to create or manage CSM Agent Workspace Landing Pages?
+a) admin
+b) sn_customservice.admin
+c) itil
+d) workspace_admin</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>cc35dfb397620110be4abfb3f153af36</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) Closed automatically</answer>
+<deck display_value="Major Issue Management">dfa5196097720110be4abfb3f153affd</deck>
+<name>4</name>
+<order>400</order>
+<question>Upon closure of the major case, all child cases are?
+a) Resolved automatically
+b) Closed automatically
+c) Unchanged
+d) Update with notes automatically but remain open</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 08:30:56</sys_created_on>
+<sys_id>612b11e497720110be4abfb3f153afb6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 08:30:56</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) True</answer>
+<deck display_value="CSM Workflow Integrations">5d2c2de497b20110be4abfb3f153afe3</deck>
+<name>4</name>
+<order>400</order>
+<question>External Customers / Consumers can be given read-only access to Incident, Change Request and Request records and the ability to approve or reject Change Requests or Requests.
+a) True
+b) False</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 13:00:47</sys_created_on>
+<sys_id>96e81ea097760110be4abfb3f153aff7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 13:00:47</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) The MID Server opens a persistent connection to the instance through the AMB Client and listens on the /mid/server/&lt;mid_sys_id&gt; AMB channel. When an output record is inserted into the Queue [ecc_queue] table, an AMB message is sent to the MID Server's channel. The MID Server receives this message and immediately polls the ecc_queue table for work.</answer>
+<deck display_value="MID Servers for Discovery">f88c1ee497760110be4abfb3f153af5a</deck>
+<name>4</name>
+<order>400</order>
+<question>How does the MID Server receive instructions from the Instance?
+a) The instance uses a REST API to POST messages to the MID Server
+b) The MID Server opens a persistent connection to the instance through the AMB Client and listens on the /mid/server/&lt;mid_sys_id&gt; AMB channel. When an output record is inserted into the Queue [ecc_queue] table, an AMB message is sent to the MID Server's channel. The MID Server receives this message and immediately polls the ecc_queue table for work.
+c) A system administrator must batch work to send to the MID Server manually
+d) A system administrator must configure a custom scripted web service for the MID Server to use</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 14:22:51</sys_created_on>
+<sys_id>acbbaea497b60110be4abfb3f153af53</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 14:22:51</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) sn_customerservice.deescalation_requester contains sn_customerservice.escalation_requester</answer>
+<deck display_value="Case and Account Escalation">59c1a00097b60110be4abfb3f153af2c</deck>
+<name>5</name>
+<order>500</order>
+<question>What is the relationship between the roles sn_customerservice.escalation_requester and sn_customerservice.deescalation_requester?
+a) sn_customerservice.deescalation_requester contains sn_customerservice.escalation_requester
+b) sn_customerservice.escalation_requester contains sn_customerservice.deescalation_requester
+c) there is no relationship</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 15:26:21</sys_created_on>
+<sys_id>db07604497b60110be4abfb3f153af33</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 15:26:21</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) IP Addresses</answer>
+<deck display_value="Running Discovery Basics">335feea097760110be4abfb3f153affc</deck>
+<name>5</name>
+<order>500</order>
+<question>_________ setting in Discovery Schedules scans devices without the use of credentials
+a) Configuration Items
+b) SNMP
+c) IP Addresses
+d) Cloud Infrastructure</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 14:38:34</sys_created_on>
+<sys_id>c81c06e997b60110be4abfb3f153af26</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 14:38:34</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) If a discovered running process matches the criteria of a process classifier, a CI of that class will be created</answer>
+<deck display_value="Application Mapping">901e942297b20110be4abfb3f153af27</deck>
+<name>5</name>
+<order>500</order>
+<question>What do Process Classifiers do?
+a) If a discovered running process matches the criteria of a process classifier, a CI of that class will be created
+b) If a discovered running process matches the criteria of a process classifier, process details are updated by the classifier's script to improve identification and reconciliation</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-19 14:34:57</sys_created_on>
+<sys_id>45f7534897870110be4abfb3f153af39</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-19 14:34:57</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) Agent Affinity</answer>
+<deck display_value="Case Routing and Assignment">6f3ba7f397a20110be4abfb3f153af09</deck>
+<name>5</name>
+<order>500</order>
+<question>Which Advanced Work Assignment feature assigns tasks based on an agents history with a caller, their history with similar tasks or their position within the account team?
+a) Caller Affinity
+b) Agent Affinity
+c) User Affinity
+d) Assignment Affinity</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 14:57:42</sys_created_on>
+<sys_id>3b70ec4c97760110be4abfb3f153af4f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 14:57:42</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) Inside the Firewall and on a server as close to the MID Server's "targets" as possible</answer>
+<deck display_value="MID Servers for Discovery">f88c1ee497760110be4abfb3f153af5a</deck>
+<name>5</name>
+<order>500</order>
+<question>What is the best practice when choosing the location to install a MID Server?
+a) Inside the Firewall and on a server with the most available resource
+b) Inside the Firewall and on a server as close to the MID Server's "targets" as possible
+c) Inside the Firewall and on a physical server
+d) Inside the Firewall and on a virtual server</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 14:22:51</sys_created_on>
+<sys_id>20bbaea497b60110be4abfb3f153af54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 14:22:51</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) Active, Order, Roles OR Assignment Group</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>5</name>
+<order>500</order>
+<question>Which properties of a landing page define the visibility of a landing page to an agent?
+a) Active, Order, User Criteria
+b) Active, Order, Roles OR Assignment Group
+c) Active, Order, Condition Builder</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>4035dfb397620110be4abfb3f153af37</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) 22</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>5</name>
+<order>500</order>
+<question>What is the common port number for SSH? 
+a) 443 
+b) 22 
+c) 135 
+d) 161</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>e30e542297b20110be4abfb3f153aff0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) sn_customerservice_manager or sn_majorissue_mgt.major_issue_manager</answer>
+<deck display_value="Major Issue Management">dfa5196097720110be4abfb3f153affd</deck>
+<name>5</name>
+<order>500</order>
+<question>Which role is required to approve a Major Issue Candidate?
+a) sn_customerservice_agent
+b) itil
+c) sn_customerservice_manager or sn_majorissue_mgt.major_issue_manager
+d) approve_user</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 08:30:56</sys_created_on>
+<sys_id>e12b11e497720110be4abfb3f153afb6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 08:30:56</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) When it is configured and all Credentials fail</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>5</name>
+<order>500</order>
+<question>Under what circumstances does Credential-less Discovery run?
+a) Every time when it is configured
+b) When schedules marked for Credential-less Discovery run
+c) When it is configured and all Credentials fail
+d) When it is part of a running probe or pattern</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>64581ae597f60110be4abfb3f153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) sn_incident_read and sn_incident_write</answer>
+<deck display_value="CSM Workflow Integrations">5d2c2de497b20110be4abfb3f153afe3</deck>
+<name>5</name>
+<order>500</order>
+<question>Which roles should CSM Agents be given to create Incidents on behalf of their customers / consumers?
+a) itil
+b) itil_admin
+c) incident_manager
+d) sn_incident_read and sn_incident_write</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 13:00:47</sys_created_on>
+<sys_id>1ae81ea097760110be4abfb3f153aff7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 13:00:47</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) Verify Contact or Verify Consumer</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>6</name>
+<order>600</order>
+<question>Which Workspace feature can agents use to find a user/consumer and verify their identity?
+a) Global Search
+b) Password Reset
+c) Verify Contact or Verify Consumer
+d) User Surveys</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>c035dfb397620110be4abfb3f153af37</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) If a discovered running process matches the criteria of a process handler, process details are updated by the handler's script to improve identification and reconciliation</answer>
+<deck display_value="Application Mapping">901e942297b20110be4abfb3f153af27</deck>
+<name>6</name>
+<order>600</order>
+<question>What do Process Handlers do?
+a) If a discovered running process matches the criteria of a process handler, a CI of that class will be created
+b) If a discovered running process matches the criteria of a process handler, process details are updated by the handler's script to improve identification and reconciliation</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-19 14:34:57</sys_created_on>
+<sys_id>c5f7534897870110be4abfb3f153af39</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-19 14:34:57</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) False</answer>
+<deck display_value="MID Servers for Discovery">f88c1ee497760110be4abfb3f153af5a</deck>
+<name>6</name>
+<order>600</order>
+<question>MID Server applications running on UNIX Servers can interact with targets running a Windows OS?
+a) True
+b) False</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 14:22:51</sys_created_on>
+<sys_id>a0bbaea497b60110be4abfb3f153af54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 14:22:51</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) The device responded and at least one port is open</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>6</name>
+<order>600</order>
+<question>When is a host described as "Alive"?
+a) The device responded and at least one port is open
+b) The device responded but not ports are detected
+c) The device responded and all ports scanned are open
+d) The device responded and at least one port is open and the credentials used are correct</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>e4581ae597f60110be4abfb3f153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) AWA Operations Dashboard</answer>
+<deck display_value="Case Routing and Assignment">6f3ba7f397a20110be4abfb3f153af09</deck>
+<name>6</name>
+<order>600</order>
+<question>Where can managers see details of Advanced Work Assignment Agent workloads?
+a) Agent Workspace
+b) Service Desk &gt; My Groups Work
+c) The Task list
+d) AWA Operations Dashboard</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 14:57:42</sys_created_on>
+<sys_id>bb70ec4c97760110be4abfb3f153af4f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 14:57:42</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) A probe which scans available ports on a host</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>6</name>
+<order>600</order>
+<question>What is Shazzam?
+a) A probe which scans available ports on a host
+b) An agent which is installed on the host
+c) A set of credentials for Windows devices
+d) A set of Behaviors</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>670e542297b20110be4abfb3f153aff0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) sn_customerservice_agent or sn_customerservice.consumer_agent</answer>
+<deck display_value="Major Issue Management">dfa5196097720110be4abfb3f153affd</deck>
+<name>6</name>
+<order>600</order>
+<question>Which role is required to propose a Major Issue Candidate?
+a) sn_customerservice_agent or sn_customerservice.consumer_agent
+b) itil
+c) sn_customerservice_manager
+d) approve_user</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 08:30:56</sys_created_on>
+<sys_id>652b11e497720110be4abfb3f153afb6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 08:30:56</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) all of the above</answer>
+<deck display_value="Case and Account Escalation">59c1a00097b60110be4abfb3f153af2c</deck>
+<name>6</name>
+<order>600</order>
+<question>An escalation template defines?
+a) type. Case or Account
+b) if approval is required
+c) the escalation watchlist
+d) all of the above</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 15:26:21</sys_created_on>
+<sys_id>5f07604497b60110be4abfb3f153af33</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 15:26:21</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) Queues</answer>
+<deck display_value="Case Routing and Assignment">6f3ba7f397a20110be4abfb3f153af09</deck>
+<name>7</name>
+<order>700</order>
+<question>What does Advancement Work Assignment use to group work items together?
+a) Queues
+b) Work Groups
+c) Assignment Groups
+d) Inbound Actions</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 14:57:42</sys_created_on>
+<sys_id>3f70ec4c97760110be4abfb3f153af4f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 14:57:42</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) True</answer>
+<deck display_value="MID Servers for Discovery">f88c1ee497760110be4abfb3f153af5a</deck>
+<name>7</name>
+<order>700</order>
+<question>MID Server applications running on Windows Servers can interact with targets running non-Windows OS? 
+a) True 
+b) False</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 14:22:51</sys_created_on>
+<sys_id>24bbaea497b60110be4abfb3f153af54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 14:22:51</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) quick actions</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>7</name>
+<order>700</order>
+<question>In Agent Workspace chat, preconfigured and admin configured actions can be set up. These are called ________________ ?
+a) notification templates
+b) canned messages
+c) quick actions
+d) chat templates</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>4435dfb397620110be4abfb3f153af37</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) escalation severity</answer>
+<deck display_value="Case and Account Escalation">59c1a00097b60110be4abfb3f153af2c</deck>
+<name>7</name>
+<order>700</order>
+<question>What defines the severity level for escalation and color used to highlight escalated cases or account records in the user interface?
+a) severity
+b) escalation severity
+c) priority
+d) escalation priority</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 15:26:21</sys_created_on>
+<sys_id>df07604497b60110be4abfb3f153af33</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 15:26:21</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) How many ports the Shazzam probe will scan before starting to classify</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>7</name>
+<order>700</order>
+<question>What does Shazzam probe batch size control?
+a) How many ports the Shazzam probe will scan before starting to classify
+b) How many Shazzam probes are sent
+c) How many Shazzam batches are sent
+d) How many responses Shazzam waits for before starting to classify</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>e70e542297b20110be4abfb3f153aff0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) False</answer>
+<deck display_value="Application Mapping">901e942297b20110be4abfb3f153af27</deck>
+<name>7</name>
+<order>700</order>
+<question>Process Classifiers and Process Handlers are updated via the CI Class Manager?
+a) True
+b) False</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-19 14:34:57</sys_created_on>
+<sys_id>49f7534897870110be4abfb3f153af39</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-19 14:34:57</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) The Case remains as a regular case</answer>
+<deck display_value="Major Issue Management">dfa5196097720110be4abfb3f153affd</deck>
+<name>7</name>
+<order>700</order>
+<question>What happens to Major Issue Candidates that are rejected?
+a) The Major Case is set to "Rejected"
+b) The Case is set to "Rejected"
+c) The Case remains as a regular case
+d) A Rejected Major Case is created</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 08:30:56</sys_created_on>
+<sys_id>e52b11e497720110be4abfb3f153afb6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 08:30:56</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) No open ports are detected or no ports responded to the port scan</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>7</name>
+<order>700</order>
+<question>When is a host described as inactive?
+a) The device responded and at least one port is open
+b) The device responded but not ports are detected
+c) The device responded and all ports scanned are open
+d) No open ports are detected or no ports responded to the port scan</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>68581ae597f60110be4abfb3f153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) preconfigured messages that pull data from related Task [task] records</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>8</name>
+<order>800</order>
+<question>In Agent Chat "Response Templates" are?
+a) playbooks for handling cases
+b) preconfigured messages that pull data from related Task [task] records
+c) templates for records in the Response [rm_response] table
+d) all of the above</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>c435dfb397620110be4abfb3f153af37</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) Name
+
+N.B. The value of the name may be an IP Address as Credential-less Discovery uses reverse DNS lookup</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>8</name>
+<order>800</order>
+<question>Which CI identifier is used for reconciliation in Credential-less Discovery?
+a) MAC Address
+b) IP Address
+c) Name
+d) Install Directory</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>e8581ae597f60110be4abfb3f153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) True</answer>
+<deck display_value="Application Mapping">901e942297b20110be4abfb3f153af27</deck>
+<name>8</name>
+<order>800</order>
+<question>CI Identifiers are updated via the CI Class Manager?
+a) True
+b) False</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-19 14:34:57</sys_created_on>
+<sys_id>c9f7534897870110be4abfb3f153af39</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-19 14:34:57</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) the user the MID Server uses to login to the instance</answer>
+<deck display_value="MID Servers for Discovery">f88c1ee497760110be4abfb3f153af5a</deck>
+<name>8</name>
+<order>800</order>
+<question>What is the "MID Server User"?
+a) the user the instance uses to login to the MID Server
+b) the user the MID Server uses to login to the instance
+c) the  user the MID Server uses to login to Targets
+d) the user responsible for configuring the MID Server</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 14:22:51</sys_created_on>
+<sys_id>a4bbaea497b60110be4abfb3f153af54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 14:22:51</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) 1000</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>8</name>
+<order>800</order>
+<question>What is the default Shazzam batch size?
+a) 25
+b) 2500
+c) 500
+d) 1000</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>6b0e542297b20110be4abfb3f153aff0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) It is added to the new Major Case as a child case</answer>
+<deck display_value="Major Issue Management">dfa5196097720110be4abfb3f153affd</deck>
+<name>8</name>
+<order>800</order>
+<question>When a Major Case candidate has an Account or Contact/Consumer defined, what happens to the Candidate when it is approved?
+a) It is set to Approved
+b) It is added to the new Major Case as a child case
+c) It is converted to a Major Case
+d) It is converted to a Major Incident</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 08:30:56</sys_created_on>
+<sys_id>692b11e497720110be4abfb3f153afb6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 08:30:56</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) when an escalation record is created with state "Requested"</answer>
+<deck display_value="Case and Account Escalation">59c1a00097b60110be4abfb3f153af2c</deck>
+<name>8</name>
+<order>800</order>
+<question>When is the escalation approval flow triggered?
+a) when the escalation template says approval is required
+b) when an escalation record is created with state "Requested"
+c) when triggered by the customer service agent
+d) it will never run</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 15:26:21</sys_created_on>
+<sys_id>5307604497b60110be4abfb3f153af34</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 15:26:21</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) Requested, Escalated, De-escalation Requested, Closed, Rejected</answer>
+<deck display_value="Case and Account Escalation">59c1a00097b60110be4abfb3f153af2c</deck>
+<name>9</name>
+<order>900</order>
+<question>What are the state values of Escalation records:
+a) Requested, Escalated, De-escalation Requested, Closed, Rejected
+b) New, Escalated, Closed, Rejected
+c) Requested, Escalated, De-escalated, Rejected
+d) Requested, Escalated, De-escalated, Closed</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 15:26:21</sys_created_on>
+<sys_id>d307604497b60110be4abfb3f153af34</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 15:26:21</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) On the instance</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>9</name>
+<order>900</order>
+<question>Where are Discovery Credentials stored?
+a) On the MID Server
+b) On the target host
+c) On the instance
+d) Credentials must be provided on each discovery run</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>6c581ae597f60110be4abfb3f153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) full-screen mode</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>9</name>
+<order>900</order>
+<question>When sending a long email to a user, agents may like to use which feature of the Workspace email client?
+a) full-screen mode
+b) quick messages
+c) cc
+d) request approval</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>4835dfb397620110be4abfb3f153af37</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) It is converted to a Major Case</answer>
+<deck display_value="Major Issue Management">dfa5196097720110be4abfb3f153affd</deck>
+<name>9</name>
+<order>900</order>
+<question>When a Major Case candidate does not have an Account or Contact/Consumer defined, what happens to the Candidate when it is approved?
+a) It is set to Approved
+b) It is added to the new Major Case as a child case
+c) It is converted to a Major Case
+d) It is converted to a Major Incident</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 08:30:56</sys_created_on>
+<sys_id>e92b11e497720110be4abfb3f153afb6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 08:30:56</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) both a and b</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>9</name>
+<order>900</order>
+<question>What is a possible cause of "No results returned from probe" warning message?
+a) Firewall with advanced security configured
+b) File and Printer Sharing Inbound Rules are not enabled for ICMP
+c) both a and b</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>eb0e542297b20110be4abfb3f153aff0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) mid_server</answer>
+<deck display_value="MID Servers for Discovery">f88c1ee497760110be4abfb3f153af5a</deck>
+<name>9</name>
+<order>900</order>
+<question>Which Role must the MID Server User have?
+a) admin
+b) itil
+c) mid_server
+d) rest_explorer</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 14:22:51</sys_created_on>
+<sys_id>28bbaea497b60110be4abfb3f153af54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 14:22:51</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) AES128</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>10</name>
+<order>1000</order>
+<question>Credentials are encrypted with which algorithm?
+a) Base64
+b) SHA
+c) AES128
+d) RSA</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>fc581ae597f60110be4abfb3f153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) Related lists</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>10</name>
+<order>1000</order>
+<question>In CSM Agent Workspace where can agents preview sent and received emails?
+a) Agent Assist tab
+b) Using the "Preview Emails" UI Actions
+c) only if the "Emails Preview" component is included in the landing page
+d) Related lists</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>c835dfb397620110be4abfb3f153af37</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) all of the above</answer>
+<deck display_value="MID Servers for Discovery">f88c1ee497760110be4abfb3f153af5a</deck>
+<name>10</name>
+<order>1000</order>
+<question>What are the requirements for the Service Account which runs the MID Server application?
+a) It must not be a local system account
+b) It must not be an administrator level account (local, domain, etc.)
+c) It must have the "log on as service" right
+d) all of the above</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 14:22:51</sys_created_on>
+<sys_id>a8bbaea497b60110be4abfb3f153af54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 14:22:51</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) Operating System</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>10</name>
+<order>1000</order>
+<question>What are discovered computers classified by?
+a) Functionality
+b) Serial Number
+c) Processor
+d) Operating System</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>6f0e542297b20110be4abfb3f153aff0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) a contextual list of relevant records based on the current cases context or playbook activity</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>11</name>
+<order>1100</order>
+<question>In CSM Configurable Workspace, dynamic related records provide agents with?
+a) a contextual list of relevant records based on the current cases context or playbook activity
+b) a list of tasks that are either the cases parent or child
+c) a list of knowledge articles related to this case
+d) an escalation path for this case</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>4c35dfb397620110be4abfb3f153af37</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) Affinity</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>11</name>
+<order>1100</order>
+<question>When a credential is successful on a device a __________ is created and the same credential will be used first next time the device is discovered.
+a) Alias
+b) Affinity
+c) Connection
+d) Basic Auth Profile</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>70581ae597f60110be4abfb3f153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) 5.1</answer>
+<deck display_value="MID Servers for Discovery">f88c1ee497760110be4abfb3f153af5a</deck>
+<name>11</name>
+<order>1100</order>
+<question>Which version of PowerShell is required for the MID Server to run?
+a) 2.1
+b) 3.1
+c) 4.1
+d) 5.1</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-08 14:22:51</sys_created_on>
+<sys_id>2cbbaea497b60110be4abfb3f153af54</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-08 14:22:51</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) Functionality
+
+Eg. Power, Print, Switch, Route</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>11</name>
+<order>1100</order>
+<question>What are discovered network devices classified by?
+a) Functionality
+b) Serial Number
+c) Processor
+d) Operating System</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>ef0e542297b20110be4abfb3f153aff0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) define which credentials to use for a specific schedule</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>12</name>
+<order>1200</order>
+<question>In Discovery Credential Aliases are used to:
+a) define which credentials to use for a specific schedule
+b) obfuscate the credentials from the Discovery Administrator
+c) exclude credentials from a discovery schedule
+d) give credentials a user friendly name</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>f0581ae597f60110be4abfb3f153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) Customer Central</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>12</name>
+<order>1200</order>
+<question>Which ServiceNow feature "provides a framework for improving the visualization of customer information for agents across multiple interactions and record types"?
+a) User profiles
+b) HR Profiles
+c) Live Profiles
+d) Customer Central</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>cc35dfb397620110be4abfb3f153af37</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) create the system property glide.discovery.debug.classification and set it to true</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>12</name>
+<order>1200</order>
+<question>How can you log classification criteria/attributes during discovery?
+a) configure it on the Discovery Schedule
+b) configure it on Discovery Home
+c) create the system property glide.discovery.debug.classification and set it to true
+d) create the MID Server property glide.discovery.debug.classification and set it to true</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>630e542297b20110be4abfb3f153aff1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) CI Class Manager</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>13</name>
+<order>1300</order>
+<question>Where can CI Identifiers be configured?
+a) Discovery Patterns
+b) System Properties
+c) CI Class Manager
+d) MID Server Properties</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>e30e542297b20110be4abfb3f153aff1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) the Credential Alias</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>13</name>
+<order>1300</order>
+<question>If a Credential Alias is defined for a Discovery Schedule and a device found in the Schedule also has an Affinity, which credential is used?
+a) all Credentials in order based on the device class
+b) the Credential Alias
+c) the Affinity Credential
+d) the selected Basic Auth Profile</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>74581ae597f60110be4abfb3f153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) Conversation Monitoring</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>13</name>
+<order>1300</order>
+<question>Which ServiceNow feature "enables managers to regularly monitor and coach agents during specific customer interactions."?
+a) Google Analytics
+b) Conversation History
+c) Conversation Monitoring
+d) Chat Log</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>4035dfb397620110be4abfb3f153af38</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) set system property glide.identification_engine.multisource_enabled to true</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>14</name>
+<order>1400</order>
+<question>How can you enable Multi-Source CMDB?
+a) enable Multi-Source CMDB plugin
+b) it is enabled by default
+c) set system property glide.identification_engine.multisource_enabled to true
+d) configure it on the MID Server</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>670e542297b20110be4abfb3f153aff1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) Discovery Log on Discovery Status</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>14</name>
+<order>1400</order>
+<question>Where can authentication errors during discovery be found?
+a) System Log
+b) Node Log
+c) Discovery Log on Discovery Status
+d) ECC Queue on Discovery Status</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>f4581ae597f60110be4abfb3f153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) a feature allowing agents and managers to communicate without the customer/consumer seeing their conversation</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>14</name>
+<order>1400</order>
+<question>What is "Agent Whisper"?
+a) a feature allowing agents and managers to communicate without the customer/consumer seeing their conversation
+b) a quick action to drop the volume of agent audio
+c) an Agent Community for tips and tricks
+d) a delicious chocolate bar</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>c035dfb397620110be4abfb3f153af38</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) transfer to another queue</answer>
+<deck display_value="Workspace Experience">ae7743b397220110be4abfb3f153af8b</deck>
+<name>15</name>
+<order>1500</order>
+<question>An available OOB chat quick action is?
+a) drop chat
+b) escalate to P1
+c) transfer to another queue
+d) ask for approval</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-06 09:28:41</sys_created_on>
+<sys_id>4435dfb397620110be4abfb3f153af38</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-06 09:28:41</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) SSH</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>15</name>
+<order>1500</order>
+<question>What Credential Type do you need to access UNIX systems?
+a) SSH
+b) SSL
+c) WMI
+d) CIM</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>78581ae597f60110be4abfb3f153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) True</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>15</name>
+<order>1500</order>
+<question>When Multi-Source CMDB is enabled, it is possible to see all data from each source in cmdb_multisource_data table
+a) True
+b) False</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>e70e542297b20110be4abfb3f153aff1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) SSH</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>16</name>
+<order>1600</order>
+<question>Which type of  credential can you provide either a Password or a Private Key for?
+a) UNIX
+b) WMI
+c) CIM
+d) SSH</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>f8581ae597f60110be4abfb3f153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) all of the above</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>16</name>
+<order>1600</order>
+<question>You can view Multi-source CMDB data:
+a) by clicking "Preview Data" on the Reconciliation Rules in CI Class Manager
+b) by clicking "Multisource Data Preview" under Related Links on a CI record
+c) in the related list "Multisource Data" on a CI record
+d) all of the above</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>6b0e542297b20110be4abfb3f153aff1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) The CI's Classification</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>17</name>
+<order>1700</order>
+<question>What dictates which identification and exploration probes and patterns are triggered?
+a) The Shazzam probe results
+b) The CI's Classification 
+c) Reconciliation Rules
+d) Multi-source CMDB Configuration</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>eb0e542297b20110be4abfb3f153aff1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) Root or Sudo</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>17</name>
+<order>1700</order>
+<question>What privileges must an SSH User be granted on the target system?
+a) Admin
+b) Root or Sudo
+c) Domain Admin
+d) System</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>7c581ae597f60110be4abfb3f153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) Discovery Configuration Console
+
+N.B. Behaviors control which ports are scanned when applied to specific Discovery Schedules. To configure which ports are scanned, regardless of Behaviors being applied use the Discovery Configuration Console.</answer>
+<deck display_value="Phases, Probes and Classifications">79bbc6a197760110be4abfb3f153afba</deck>
+<name>18</name>
+<order>1800</order>
+<question>Where can Administrators globally configure which ports Shazzam will scan?
+a) Behaviors
+b) Discovery Schedules
+c) Discovery Configuration Console
+d) System Properties</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-14 09:11:52</sys_created_on>
+<sys_id>6f0e542297b20110be4abfb3f153aff1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-14 09:11:52</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) Credential ID</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>18</name>
+<order>1800</order>
+<question>If credentials are stored externally in an organizations password locker, what must be provided for each credential?
+a) Credential URL
+b) Credential ID
+c) Password Locker
+d) Encoding</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>fc581ae597f60110be4abfb3f153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>d) SNMP</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>19</name>
+<order>1900</order>
+<question>What kind of credential will be required to discover devices such as Routers, Switches and Printers?
+a) WMI
+b) CIM
+c) VMWare
+d) SNMP</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>70581ae597f60110be4abfb3f153af64</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>b) Password</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>20</name>
+<order>2000</order>
+<question>SNMP Community Credentials only require a _____________
+a) Username
+b) Password
+c) Private Key
+d) Credential ID</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>f0581ae597f60110be4abfb3f153af64</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>c) Discovery Schedule</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>21</name>
+<order>2100</order>
+<question>Behaviors are selected on which record type?
+a) Discovery Status
+b) MID Server
+c) Discovery Schedule
+d) Functionality Definiton</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>74581ae597f60110be4abfb3f153af64</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) True</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>22</name>
+<order>2200</order>
+<question>Behaviors define which Port Probes Shazzam should deploy?
+a) True
+b) False</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>f4581ae597f60110be4abfb3f153af64</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+<x_185616_flsh_crds_flash_card action="INSERT_OR_UPDATE">
+<active>true</active>
+<answer>a) True</answer>
+<deck display_value="Discovery Credentials and Behaviors">6c07ba6c97760110be4abfb3f153affe</deck>
+<name>23</name>
+<order>2300</order>
+<question>Behaviors define which MID Servers to use?
+a) True
+b) False</question>
+<sys_class_name>x_185616_flsh_crds_flash_card</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-11 15:32:08</sys_created_on>
+<sys_id>78581ae597f60110be4abfb3f153af64</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-11 15:32:08</sys_updated_on>
+</x_185616_flsh_crds_flash_card>
+</unload>
